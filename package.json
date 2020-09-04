@@ -27,7 +27,7 @@
     "express": "^4.17.1",
     "next": "^9.1.2",
     "next-compose-plugins": "^2.2.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "path": "^0.12.7",
     "qs": "^6.9.1",
     "react": "^16.11.0",
