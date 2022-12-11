@@ -24,7 +24,7 @@
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "dotenv-webpack": "^1.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "next": "^9.1.2",
     "next-compose-plugins": "^2.2.0",
     "node-sass": "^4.13.0",
